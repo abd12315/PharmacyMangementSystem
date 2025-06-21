@@ -1,112 +1,105 @@
-🏥 Pharmacy Management System
+# 💊 Pharmacy Management System (C#)
 
-A robust and user-friendly desktop application designed to streamline the operations of a pharmacy. This system provides comprehensive tools for managing inventory, sales, customers, and more, ensuring efficient and accurate pharmacy workflows.
+A fully functional Pharmacy Management System developed in **C#**, designed to streamline day-to-day operations in a pharmacy, including managing medicines, handling sales, and maintaining inventory.
 
-✨ Features
+---
 
-Product Management: Easily add, update, and remove pharmaceutical products. Track stock levels, pricing, and expiration dates.
+## 🖥️ Technology Stack
 
-Sales & Transactions: Process sales efficiently, generate invoices, and manage customer purchases.
+- **Language**: C#
+- **Framework**: .NET (Windows Forms or WPF)
+- **Database**: MS SQL Server / LocalDB (confirm based on implementation)
+- **UI**: Windows Forms (WinForms)
 
-Inventory Control: Monitor stock in real-time, receive low-stock alerts, and manage supplier orders to prevent shortages.
+---
 
-Customer Management: Maintain a detailed database of customers, including purchase history and contact information.
+## 🎯 Key Features
 
-Reporting: Generate insightful reports on sales, inventory, and other key metrics to aid in decision-making.
+- 🧾 **Medicine Management**: Add, update, delete medicines with quantity, expiry, and price.
+- 📦 **Inventory Tracking**: Automatic updates when stock is sold or added.
+- 💳 **Billing Module**: Generate printable invoices for sales.
+- 📈 **Reporting**: View daily sales, stock levels, and expired medicine reports.
+- 🔐 **Authentication**: Login system with role-based access (Admin/Staff).
 
-User Authentication: Secure login system to manage different user roles (e.g., administrator, pharmacist, sales assistant).
+---
 
-Intuitive User Interface: A clean and easy-to-navigate Windows Forms interface designed for quick adoption.
+## 📁 Project Structure
 
-🚀 Getting Started
+```
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+PharmacyManagementSystem/
+├── bin/
+├── obj/
+├── Forms/
+│   ├── LoginForm.cs
+│   ├── Dashboard.cs
+│   └── MedicineForm.cs
+├── Program.cs
+├── Database.cs
+└── README.md
 
-Prerequisites
+````
 
-Visual Studio: Version 2019 or later (Community, Professional, or Enterprise). Download Visual Studio.
+---
 
-.NET Framework: The project targets a specific .NET Framework version (e.g., 4.7.2 or 4.8). Ensure you have the necessary developer packs installed with Visual Studio.
+## 🛠️ Setup Instructions
 
-SQL Server (or LocalDB): The application likely uses SQL Server for database management.
+1. **Clone the repository**
 
-If using SQL Server Express or a full SQL Server instance, ensure it's installed and accessible.
-
-If using LocalDB (often installed with Visual Studio), no extra setup might be needed beyond ensuring the connection string is correct.
-
-Installation
-
-Clone the repository:
-
+```bash
 git clone https://github.com/abd12315/PharmacyMangementSystem.git
+````
 
-Navigate into the project directory:
+2. **Open the solution in Visual Studio**
 
-cd PharmacyMangementSystem/WindowsFormsApp1/Pharmacy Management
+* Double-click the `.sln` file or open it via **File > Open > Project/Solution**.
 
-Open in Visual Studio:
+3. **Restore NuGet Packages** (if applicable)
 
-Locate the .sln (solution) file (e.g., Pharmacy Management.sln) within the cloned directory.
+* Right-click the solution > **Restore NuGet Packages**
 
-Double-click the .sln file to open the project in Visual Studio.
+4. **Configure Database**
 
-Restore NuGet Packages:
+* Open `Database.cs` and configure your SQL connection string.
+* Run the provided SQL script (if available) to create necessary tables.
 
-Visual Studio should automatically prompt you to restore any missing NuGet packages. If not, right-click on the solution in Solution Explorer and select "Restore NuGet Packages."
+5. **Build & Run**
 
-Database Setup (Important!):
+* Press `F5` or click **Start Debugging**.
 
-Review the App.config or Web.config file (or connectionString in code) for database connection details. You will need to ensure your local SQL Server instance name and database name match what's expected by the application.
+---
 
-If a database script (.sql file) is provided in the repository, execute it on your SQL Server instance to create the necessary tables and populate initial data.
+## 📸 Screenshots *(Optional)*
 
-Example Connection String (check your project for the actual one):
+*Add screenshots of your UI here to make your project stand out.*
 
-<connectionStrings>
-    <add name="DefaultConnection" connectionString="Data Source=YourSqlServerInstanceName;Initial Catalog=PharmacyDB;Integrated Security=True" providerName="System.Data.SqlClient" />
-</connectionStrings>
+---
 
-Replace YourSqlServerInstanceName with your actual SQL Server instance name (e.g., (localdb)\MSSQLLocalDB or .\SQLEXPRESS).
+## 🚀 Future Improvements
 
-Running the Application
+* [ ] Expiry date alerts and reminders
+* [ ] Backup and restore functionality
+* [ ] Barcode scanner integration
+* [ ] Switch to WPF for modern UI
+* [ ] Add testing and logging features
 
-Once the project is loaded in Visual Studio and the database is set up, press F5 or click the "Start" button in Visual Studio to build and run the application.
+---
 
-📸 Screenshots / Demo
+## 🤝 Contributing
 
-(Add screenshots or GIFs here to showcase your application's interface and key functionalities. This significantly boosts the appeal of your README!)
+1. Fork the repo
+2. Create a new branch: `feature/YourFeature`
+3. Commit your changes
+4. Open a Pull Request
 
-🛠️ Technologies Used
+---
 
-C#
+## 📄 License
 
-.NET Framework (e.g., 4.7.2, 4.8)
+MIT License — see [LICENSE](LICENSE) for more information.
 
-Windows Forms (WinForms)
+---
 
-SQL Server (for database management)
+## 🙌 Credits
 
-🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📄 License
-
-Distributed under the MIT License. See LICENSE for more information.
-(If you don't have a LICENSE file, you should create one! MIT is a common and permissive choice.)
-
-✉️ Contact
-
-Abdullah - your.email@example.com
-
-Project Link: https://github.com/abd12315/PharmacyMangementSystem
+Made with 💙 by [Abdullah Shaheer](https://github.com/abd12315)
