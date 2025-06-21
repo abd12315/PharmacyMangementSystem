@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\test\\project\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|f:\\test\\project\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\viewusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:viewusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\profileviewusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:profileviewusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\profileviewusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:profileviewusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\viewusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:viewusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\modifymedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:modifymedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\modifymedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:modifymedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\sellmedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:sellmedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\removemedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:removemedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\sellmedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:sellmedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\addmedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:addmedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\removemedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:removemedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\removemedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:removemedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\addmedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:addmedicineusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\addmedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:addmedicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|F:\\test\\project\\WindowsFormsApp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904A1233-4146-4D51-8CBE-6CF317C6505D}|WindowsFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:33:46.81Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileViewUserControl.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\ProfileViewUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "ProfileViewUserControl.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\ProfileViewUserControl.Designer.cs",
+              "RelativeToolTip": "ProfileViewUserControl.Designer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAmwPoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:08:02.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileViewUserControl.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\ProfileViewUserControl.cs",
+              "RelativeDocumentMoniker": "ProfileViewUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\ProfileViewUserControl.cs",
+              "RelativeToolTip": "ProfileViewUserControl.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:07:39.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewUserControl.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\ViewUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "ViewUserControl.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\ViewUserControl.Designer.cs",
+              "RelativeToolTip": "ViewUserControl.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:06:50.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewUserControl.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\ViewUserControl.cs",
+              "RelativeDocumentMoniker": "ViewUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\ViewUserControl.cs",
+              "RelativeToolTip": "ViewUserControl.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADwv7EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:06:27.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputForm.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\InputForm.Designer.cs",
+              "RelativeDocumentMoniker": "InputForm.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\InputForm.Designer.cs",
+              "RelativeToolTip": "InputForm.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:48:41.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputForm.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\InputForm.cs",
+              "RelativeDocumentMoniker": "InputForm.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\InputForm.cs",
+              "RelativeToolTip": "InputForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:48:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserProfile.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\UserProfile.cs",
+              "RelativeToolTip": "UserProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:45:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModifyMedicineUserControl.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\ModifyMedicineUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "ModifyMedicineUserControl.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\ModifyMedicineUserControl.Designer.cs",
+              "RelativeToolTip": "ModifyMedicineUserControl.Designer.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:12:47.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModifyMedicineUserControl.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\ModifyMedicineUserControl.cs",
+              "RelativeDocumentMoniker": "ModifyMedicineUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\ModifyMedicineUserControl.cs",
+              "RelativeToolTip": "ModifyMedicineUserControl.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAcwPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:12:38.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SellMedicineUserControl.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\SellMedicineUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "SellMedicineUserControl.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\SellMedicineUserControl.Designer.cs",
+              "RelativeToolTip": "SellMedicineUserControl.Designer.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAswH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:50:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SellMedicineUserControl.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\SellMedicineUserControl.cs",
+              "RelativeDocumentMoniker": "SellMedicineUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\SellMedicineUserControl.cs",
+              "RelativeToolTip": "SellMedicineUserControl.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAiwAIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:50:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RemoveMedicineUserControl.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\RemoveMedicineUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "RemoveMedicineUserControl.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\RemoveMedicineUserControl.Designer.cs",
+              "RelativeToolTip": "RemoveMedicineUserControl.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:31:17.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemoveMedicineUserControl.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\RemoveMedicineUserControl.cs",
+              "RelativeDocumentMoniker": "RemoveMedicineUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\RemoveMedicineUserControl.cs",
+              "RelativeToolTip": "RemoveMedicineUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:30:31.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RemoveMedicineUserControl.cs [Design]",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\RemoveMedicineUserControl.cs",
+              "RelativeDocumentMoniker": "RemoveMedicineUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\RemoveMedicineUserControl.cs [Design]",
+              "RelativeToolTip": "RemoveMedicineUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:30:27.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:25:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddMedicineUserControl.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\AddMedicineUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "AddMedicineUserControl.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\AddMedicineUserControl.Designer.cs",
+              "RelativeToolTip": "AddMedicineUserControl.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:53:02.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddMedicineUserControl.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\AddMedicineUserControl.cs",
+              "RelativeDocumentMoniker": "AddMedicineUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\AddMedicineUserControl.cs",
+              "RelativeToolTip": "AddMedicineUserControl.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:52:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddMedicineUserControl.cs [Design]",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\AddMedicineUserControl.cs",
+              "RelativeDocumentMoniker": "AddMedicineUserControl.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\AddMedicineUserControl.cs [Design]",
+              "RelativeToolTip": "AddMedicineUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:51:41.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WindowsFormsApp1",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.csproj",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeToolTip": "WindowsFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T11:49:11.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAmwAEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:03:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "DashboardForm.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "DashboardForm.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAMwDoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:02:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:02:18.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:34:09.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\test\\project\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\test\\project\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:31:04.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
